@@ -120,4 +120,4 @@ changduanjing/
 
 ## 许可
 
-MIT License © 2026 AIYAZONE
+MIT License © 2026 BruceWang
